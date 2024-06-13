@@ -1,0 +1,5 @@
+django
+django-cors-headers
+django-cockroachdb
+djangorestframework
+psycopg2-binary
